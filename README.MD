@@ -1,6 +1,6 @@
 # 🚀 End-to-End E-Commerce Lakehouse Pipeline (Databricks)
 
-![Pipeline Architecture](screenshots/Workflow SS.png) 
+![Pipeline Architecture](screenshots/WorkflowSS.png) 
 
 ## 📌 Project Overview
 This project implements a production-grade **Medallion Architecture** using **Azure Databricks** and **Delta Lake**. It processes **4,000+ daily e-commerce transactions**, utilizing automated quality gates and self-healing orchestration to ensure data integrity. 
